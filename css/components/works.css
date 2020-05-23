@@ -1,0 +1,14 @@
+.how-it-works {
+  text-align: center;
+}
+
+.cards {
+display: flex;
+justify-content: center;
+}
+
+.card {
+  box-shadow: 2px 3px #6a6b6b;
+  margin: 20px;
+  padding: 10px;
+}

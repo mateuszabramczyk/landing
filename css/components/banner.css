@@ -1,0 +1,36 @@
+.banner {
+display: flex;
+background-size: cover;
+background-position: center;
+padding: 200px 0;
+height: 200px;
+position: relative;
+}
+
+.presentation {
+  position: absolute;
+  top: 37%;
+  left: 25%;
+}
+
+.presentation h1 {
+  color: white;
+}
+
+.presentation p {
+  color: #cddbe8;
+  font-size: 17px;
+  margin-bottom: 31px;
+}
+
+.button {
+  background: #66de89;
+  text-decoration: none;
+  color: white;
+  padding: 16px 36px;
+  border-radius: 50px;
+}
+
+.button:hover {
+  font-weight: bold;
+}
